@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "@spotify/web-api-ts-sdk": "^1.2.0"
+    "@spotify/web-api-ts-sdk": "^1.2.0",
+    "esrun": "^3.2.26"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.16"
   }
 }
